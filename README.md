@@ -26,9 +26,8 @@
 
 ## 🛠️ Algunos proyectos destacados
 
-- 🔗 [Nombre del proyecto 1](#): Sitio moderno con Tailwind + JavaScript puro  
-- 🔗 [Nombre del proyecto 2](#): Landing page responsiva con Bootstrap  
-- 🔗 [Nombre del proyecto 3](#): Interfaz animada solo con HTML y CSS  
+- 🔗 [landing page](https://solpro247.netlify.app/): Sitio moderno con Tailwind + JavaScript puro  
+
 
 ---
 
