@@ -1,33 +1,47 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yoiner%20Tovar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%20Craftsman&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,40:0a2a6e,60:1d4ed8,100:020c1b&height=220&section=header&text=YOINER%20TOVAR&fontSize=80&fontColor=f0f9ff&fontAlignY=48&desc=Frontend%20Developer%20%E2%80%A2%20UI%20Engineer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=70&descSize=17&animation=fadeIn&stroke=7dd3fc&strokeWidth=1.5"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Transformando+ideas+en+experiencias+visuales;Cada+l%C3%ADnea+de+c%C3%B3digo+cuenta+una+historia;Frontend+Developer+apasionado+%F0%9F%9A%80;Construyendo+interfaces+que+inspiran)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=⚡+Angular+20+%7C+React+%7C+TypeScript+%7C+Tailwind+CSS;🤖+Building+AI-powered+web+experiences;🎯+Pixel-perfect+interfaces+%26+clean+architecture;🌊+Turning+ideas+into+extraordinary+products;🟢+Open+to+work+—+Let%27s+create+something+legendary)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portafolio-1d4ed8?style=for-the-badge&labelColor=020c1b)](https://portafolioyoinertn.netlify.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoiner-tovar/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoinertnwork@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=020c1b)](https://github.com/yoinertovar)
+
+</div>
+
+<br/>
+
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-### 👋 Hola, soy **Yoiner Tovar**
+## 👨‍💻 Sobre mí
 
-Soy un desarrollador frontend colombiano 🇨🇴 con una obsesión por crear interfaces que no solo funcionen perfectamente, sino que **se sientan increíbles** de usar.
+Soy un **Frontend Developer** colombiano 🇨🇴 con pasión por crear interfaces que no solo funcionan perfectamente, sino que **se sienten extraordinarias** de usar.
 
-Me apasiona la intersección entre el diseño y el código — ese espacio donde la lógica se convierte en arte visual.
+Me mueve la intersección entre el diseño de precisión y el poder de la **Inteligencia Artificial** — construyendo productos que resuelven problemas reales con tecnología de vanguardia.
 
 ```typescript
-const yoiner: Developer = {
-  ubicación:    "Colombia 🇨🇴",
-  rol:          "Frontend Developer",
-  enfoque:      ["UI/UX", "Responsive Design", "Clean Code"],
-  aprendiendo:  ["Angular 20", "TypeScript avanzado"],
-  disponible:   true, // ¡Abierto a nuevas oportunidades!
-  contacto:     "yoinertnwork@gmail.com"
+const yoiner = {
+  rol:        "Frontend Developer & AI Enthusiast",
+  ubicación:  "Colombia 🇨🇴",
+  stack:      ["Angular 20", "React", "TypeScript", "Tailwind"],
+  IA:         ["OpenAI API", "Prompt Engineering", "LLM Integration"],
+  DB:         ["SQL", "MySQL"],
+  idiomas:    { español: "Nativo 🇨🇴", inglés: "Básico 🇺🇸" },
+  status:     "🟢 Open to work — disponible ahora",
 };
 ```
 
@@ -35,50 +49,77 @@ const yoiner: Developer = {
 
 ---
 
-## 🚀 Stack Tecnológico
+## 🔷 Stack Tecnológico
 
 <div align="center">
 
-### ⚡ Lenguajes & Frameworks
+**— Frontend Core —**
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular_20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0284c7?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🎨 Estilos & UI
+**— Frameworks & Librerías —**
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-38bdf8?style=for-the-badge&logo=react&logoColor=black)
 
-### 🗄️ Bases de Datos
+**— UI & Diseño —**
 
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🛠️ Herramientas
+**— Inteligencia Artificial —**
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0ea5e9?style=for-the-badge&logo=openai&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-0369a1?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0284c7?style=for-the-badge&logo=sparkles&logoColor=white)
+
+**— Bases de Datos —**
+
+![MySQL](https://img.shields.io/badge/MySQL-0ea5e9?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0369a1?style=for-the-badge&logo=databricks&logoColor=white)
+
+**— Herramientas —**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0284c7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 💡 Mis Superpoderes
+## 🌐 Idiomas
 
 <div align="center">
 
-| 🏗️ Arquitectura Visual | 🎯 Precisión en Detalles | ⚙️ Código Limpio |
-|:---:|:---:|:---:|
-| Construyo layouts responsivos que se adaptan a cualquier pantalla | Cada pixel importa — interfaces limpias y bien ejecutadas | Código legible, escalable y fácil de mantener |
+![Español](https://img.shields.io/badge/Español-Nativo-1d4ed8?style=for-the-badge&logo=googletranslate&logoColor=white)&nbsp;
+![English](https://img.shields.io/badge/English-Basic-0369a1?style=for-the-badge&logo=googletranslate&logoColor=white)
 
-| 📱 Mobile First | 🚀 Performance | 🔗 Integración |
-|:---:|:---:|:---:|
-| Diseño pensando primero en móviles | Sitios rápidos y optimizados | Angular + APIs REST |
+</div>
+
+---
+
+## ⚡ Áreas de Expertise
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────┐
+│                                              │
+│   🖥️   UI / UX Development                  │
+│   ⚛️   React & Angular 20                   │
+│   🎨   Responsive Design                    │
+│   🤖   AI Integration & Prompt Engineering  │
+│   🗄️   SQL / MySQL                          │
+│   🔧   Clean Code & Best Practices          │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -88,65 +129,72 @@ const yoiner: Developer = {
 
 <div align="center">
 
-### 🔥 [SolPro247 — Landing Page](https://solpro247.netlify.app/)
-
-> Sitio web moderno, veloz y 100% responsivo
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
----
-
-### 🌐 [Mi Portafolio Personal](https://portafolioyoinertn.netlify.app/)
-
-> Vitrina de mis proyectos y habilidades como desarrollador
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+| Proyecto | Descripción | Stack | Demo |
+|:---|:---|:---:|:---:|
+| 🔥 **SolPro247** | Landing moderna y responsiva con animaciones fluidas | `Tailwind` `JS` | [▶ Live](https://solpro247.netlify.app/) |
+| 🌐 **Portafolio Personal** | Vitrina profesional de proyectos y experiencia | `HTML` `CSS` `JS` | [▶ Live](https://portafolioyoinertn.netlify.app/) |
 
 </div>
 
+> 🚧 *Más proyectos en construcción — stay tuned!*
+
 ---
 
-## 📊 Estadísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoinertovar&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoinertovar&layout=compact&theme=midnight-purple&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoinertovar&show_icons=true&include_all_commits=true&count_private=true&border_radius=14&bg_color=020c1b&title_color=7dd3fc&icon_color=0ea5e9&text_color=e0f2fe&border_color=1d4ed8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoinertovar&layout=compact&border_radius=14&bg_color=020c1b&title_color=7dd3fc&text_color=e0f2fe&border_color=1d4ed8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yoinertovar&theme=midnight-purple&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yoinertovar&border_radius=14&background=020c1b&ring=1d4ed8&fire=7dd3fc&currStreakLabel=e0f2fe&sideLabels=e0f2fe&dates=7dd3fc&stroke=1d4ed8&border=1d4ed8)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoinertovar&theme=nord&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🤝 ¡Conectemos!
+## 🤝 ¿Construimos algo juntos?
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portafolio-302b63?style=for-the-badge)](https://portafolioyoinertn.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoiner-tovar/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoinertnwork@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-> *"El código es como el arte: si no transmite algo, no está terminado."* 🎨
+Estoy disponible para **freelance**, **colaboraciones** y **oportunidades laborales**.  
+Si tienes una visión, yo tengo el código para hacerla realidad.
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yoinertovar.yoinertovar&color=a78bfa)
+[![Portfolio](https://img.shields.io/badge/🌐_Ver_Portafolio-1d4ed8?style=for-the-badge&labelColor=020c1b)](https://portafolioyoinertn.netlify.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yoiner-tovar/)&nbsp;
+[![Email](https://img.shields.io/badge/📧_Escríbeme-EA4335?style=for-the-badge)](mailto:yoinertnwork@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+> *"El código es como el arte: si no transmite algo, no está terminado."*
+>
+> **— Yoiner Tovar 🎨**
+
+<br/>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yoinertovar.yoinertovar&color=1d4ed8&style=flat-square)&nbsp;
+![Made in Colombia](https://img.shields.io/badge/Made%20with%20❤️-Colombia%20🇨🇴-1d4ed8?style=flat-square)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020c1b,50:0a2a6e,100:020c1b&height=80&section=footer&animation=fadeIn"/>
 
 </div>
