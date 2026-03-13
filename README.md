@@ -157,7 +157,7 @@ const yoiner = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoinertovar&theme=nord&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Yoiner's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yoinertovar&bg_color=020c1b&color=7dd3fc&line=1d4ed8&point=38bdf8&area=true&hide_border=false&border_color=1d4ed8&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
