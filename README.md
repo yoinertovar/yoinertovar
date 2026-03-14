@@ -78,7 +78,7 @@ const yoiner = {
 
 **— Bases de Datos —**
 
-![MySQL](https://img.shields.io/badge/MySQL-0ea5e9?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/SQL-0369a1?style=for-the-badge&logo=databricks&logoColor=white)
 
 **— Herramientas —**
