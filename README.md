@@ -4,25 +4,17 @@
       ║   README.md) como "banner.png" a tu repositorio de perfil   ║
       ║   de GitHub: github.com/yoinertovar/yoinertovar             ║
       ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
-
 <!-- Banner de cabecera cargado como imagen local (100% compatible con GitHub) -->
 <img src="./banner.png" width="100%" alt="Yoiner Tovar Navarro Banner" />
-
 <br/><br/>
-
 <h1>YOINER DAVID TOVAR NAVARRO</h1>
 <h3>🚀 Ingeniero de Software | Front-End Developer | Diseñador Gráfico</h3>
 <p>🟢 Disponible para Trabajar / Open to Work (Remoto)</p>
-
 <!-- Typing SVG animado como imagen -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Software+Engineer+%E2%80%94+Universidad+de+Cartagena;Graduado+con+Honores;Frontend+Specialist+%7C+Angular+%26+React;Dise%C3%B1o+Gr%C3%A1fico+%26+UI%2FUX+%7C+Bellas+Artes;Clean+Code+%2B+Scalable+Architecture" alt="Typing SVG" />
-
 </div>
-
 <br/>
-
 <!-- ░░ SECCIÓN DE PRESENTACIÓN CON AVATAR COMPATIBLE ░░ -->
 <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
@@ -46,13 +38,9 @@
     </td>
   </tr>
 </table>
-
 <br/>
-
 ---
-
 ## 👨‍💻 Ficha del Sistema
-
 ```json
 {
   "nombre": "Yoiner David Tovar Navarro",
@@ -63,13 +51,9 @@
   "filosofia": "El código limpio es como el arte: si no transmite algo, no está terminado."
 }
 ```
-
 ---
-
 ## ⚡ Power Meters & Áreas de Enfoque
-
 <div align="center">
-
 ```
 ┌───────────────────────────────────────────────────────────┐
 │                                                           │
@@ -80,51 +64,35 @@
 │                                                           │
 └───────────────────────────────────────────────────────────┘
 ```
-
 </div>
-
 ---
-
 ## 🔷 Stack de Tecnologías
-
 <div align="center">
-
 ### 💻 Desarrollo Front-End
-
 ![JavaScript](https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
 ### 🎨 Diseño & Maquetación
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ### ⚙️ Back-End & Base de Datos
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js%20(b%C3%A1sico)-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
 ### 🛠️ Herramientas & DevOps
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
 </div>
-
 ---
-
 ## 💼 Experiencia Profesional (Timeline)
-
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td width="20%" valign="top" style="border: none; padding: 12px 0;">
@@ -177,11 +145,8 @@
     </td>
   </tr>
 </table>
-
 ---
-
 ## 🚀 Proyectos Destacados (Portfolio)
-
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <!-- Tarjeta Proyecto 1 -->
@@ -250,9 +215,7 @@
     </td>
   </tr>
 </table>
-
 ---
-
 <!-- ░░ EDUCACIÓN & CERTIFICACIONES ░░ -->
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
@@ -286,68 +249,42 @@
     </td>
   </tr>
 </table>
-
 ---
-
 ## 🌐 Idiomas
-
 <div align="center">
-
 ![Español](https://img.shields.io/badge/Espa%C3%B1ol-Nativo-00f2fe?style=for-the-badge&labelColor=030712)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Inglés](https://img.shields.io/badge/Ingl%C3%A9s-Lectura%20T%C3%A9cnica-9d4edd?style=for-the-badge&labelColor=030712)
-
 </div>
-
 ---
-
 ## 📊 Estadísticas de Actividad (GitHub Stats)
-
 <div align="center">
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yoinertovar&show_icons=true&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=00f2fe&icon_color=9d4edd&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoinertovar&layout=compact&border_radius=12&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&border_color=30363d" alt="Top Languages"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoinertovar&show_icons=true&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=00f2fe&icon_color=9d4edd&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoinertovar&layout=compact&border_radius=12&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&border_color=30363d" alt="Top Languages"/>
-
 </div>
-
 <div align="center">
-
 [![Racha de Contribuciones](https://github-readme-streak-stats.herokuapp.com?user=yoinertovar&border_radius=12&background=0d1117&ring=00f2fe&fire=9d4edd&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=00f2fe&stroke=30363d&border=30363d)](https://git.io/streak-stats)
-
+[![Racha de Contribuciones](https://github-readme-streak-stats.herokuapp.com?user=yoinertovar&theme=dark&background=0d1117&ring=00f2fe&fire=9d4edd)](https://git.io/streak-stats)
 </div>
-
 <div align="center">
-
 [![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=yoinertovar&bg_color=0d1117&color=00f2fe&line=9d4edd&point=ff007f&area=true&hide_border=false&border_color=30363d&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
-
 ---
-
 ## 🤝 Conectemos y Creemos Algo Increíble
-
 <div align="center">
-
 Disponible para **desafíos profesionales de alto impacto**, **colaboraciones** y **proyectos freelance**.
-
 <br/>
-
 [![Portafolio](https://img.shields.io/badge/%F0%9F%8C%90_Portafolio-00f2fe?style=for-the-badge&labelColor=030712)](https://portafolioyoinertn.netlify.app/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/yoiner-tovar)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7_Enviar%20Correo-EA4335?style=for-the-badge)](mailto:yoinertnwork@gmail.com)
-
 </div>
-
 ---
-
 <div align="center">
-
 <!-- Pie de página en formato de texto destacado -->
 <h3>"El código es como el arte: si no transmite algo, no está terminado."</h3>
 <p>— Yoiner David Tovar Navarro · Colombia</p>
-
 <br/>
-
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=yoinertovar.yoinertovar&color=9d4edd&style=flat-square)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Hecho en Colombia](https://img.shields.io/badge/Maquetado%20con%20%E2%9D%A4%EF%B8%8F%20en-Colombia-ff007f?style=flat-square)
-
 </div>
